@@ -6,7 +6,7 @@ Seja bem vindo ao meu repositório no GitHub!
 Nascido em Belo Horizonte/MG em 1984, iniciei minha vida trabalhadora como office boy na [Assprom](https://www.assprom.org.br/) e fui lotado no Tribunal de Justiça do Estado de Minas Gerais.
 Tive contato com o ramo jurídico, ao qual me motivou a fazer o curso de *Direito*. Excelente curso com aprendizado impar que serve para toda a vida, mas notei não ser o meu destino profissional.
 
-Ainda no TJMG, fui promovido a Assistente Especializado e tive contato com a implantação do sistema de processo eletrônico (Projudi).
+Ainda no TJMG, fui promovido a Assistente Especializado e tive contato com a implantação do sistema de processo eletrônico ([Projudi](https://pt.wikipedia.org/wiki/PROJUDI)).
 Após alguns anos, resolvi parar de postergar meus aprendizados em programação, já que desde cedo tive afinidade com computadores. Iniciei o curso de *Engenharia de Controle e Automação (PUC-MG)* onde pude ter contato com diversas linguagens.
 Hoje estou cursando **Análise e Desenvolvimento de Sistemas** e seguindo, cada dia mais, o caminho para o conhecimento da programação.
 
