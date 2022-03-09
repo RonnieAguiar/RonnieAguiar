@@ -12,12 +12,22 @@ Hoje estou cursando **Análise e Desenvolvimento de Sistemas** e seguindo, cada 
 
 ## Curso em andamento
 - **Análise e Desenvolvimento de Sistemas**
-- Cod3r: Finalizado 
+
+Curso Cod3r: Finalizado
+
 <a href="https://www.cod3r.com.br/courses/javascript-funcional-fundamentos"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E&label=Fundamento%20de%20Javascript%20funcional"></a>
-- Cod3r: Em andamento 
+
+Curso Cod3r: Em andamento 
+
 <a href="https://www.cod3r.com.br/courses/aprenda-flutter-dart-e-construa-apps-ios-e-android"><img src="https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=blue&label=Aprenda%20Flutter%20e%20Dart%20e%20Construa%20APPs%20iOS%20e%20Android"></a>
-- Coder: Em sequencia <a href="https://www.cod3r.com.br/courses/php"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=777BB4&label=PHP 7 Completo - Curso do Desenvolvedor Web 2020"></a>
-(Com pretenção de executar o curso aplicando a versão 8.1)
+
+Curso Cod3r: Em sequencia
+
+<a href="https://www.cod3r.com.br/courses/php"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=777BB4&label=PHP 7 Completo - Curso do Desenvolvedor Web 2020"></a>
+(Com pretenção de executar o curso aplicando a versão php8.1)
+
+<a href="https://www.cod3r.com.br/courses/angular-9-essencial"><img src="https://img.shields.io/badge/Angular-777BB4?style=flat-square&logo=angular&logoColor=dd0031&label=Angular 9 - Essencial"></a>
+
 
 
 ## Tecnologias que já tive oportunidade de conhecer
