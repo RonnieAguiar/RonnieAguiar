@@ -45,3 +45,9 @@ Curso Cod3r: Em sequencia
 ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=for-the-badge&logo=WordPress&logoColor=21759B)
 ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=for-the-badge&logo=cplusplus&logoColor=007396)
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=for-the-badge&logo=sass&logoColor=CC6699)
+
+
+## Codewars
+[Meu Prefil](https://www.codewars.com/users/RonnieAguiar)
+
+![Codewars](https://www.codewars.com/users/RonnieAguiar/badges/small)
