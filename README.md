@@ -7,8 +7,13 @@ Nascido em Belo Horizonte/MG em 1984, iniciei minha vida trabalhadora como offic
 Tive contato com o ramo jurídico, ao qual me motivou a fazer o curso de *Direito*. Excelente curso com aprendizado impar que serve para toda a vida, mas notei não ser o meu destino profissional.
 
 Ainda no TJMG, fui promovido a Assistente Especializado e tive contato com a implantação do sistema de processo eletrônico ([Projudi](https://pt.wikipedia.org/wiki/PROJUDI)).
-Após alguns anos, resolvi parar de postergar meus aprendizados em programação, já que desde cedo tive afinidade com computadores. Iniciei o curso de *Engenharia de Controle e Automação (PUC-MG)* onde pude ter contato com diversas linguagens.
-Hoje estou cursando **Análise e Desenvolvimento de Sistemas** e seguindo, cada dia mais, o caminho para o conhecimento da programação.
+Após alguns anos, resolvi parar de postergar meus aprendizados em programação, já que desde cedo tive afinidade com computadores.
+
+Iniciei minha jornada utilizando Joomla e Wordpress. Comecei o curso de Engenharia de Controle e Automação (PUC-MG) onde pude ter contato com diversas linguagens, até mesmo Assembler quando vi microcontrolador NXP, linguagem de baixo nível mas enriquecedor, C/C++ é praticamente padrão quando se passa por uma faculdade.
+
+Hoje estou cursando **Análise e Desenvolvimento de Sistemas** e seguindo, cada dia mais, o caminho para o conhecimento da programação. Pretendo focar no desenvolvimento de sistemas multiplataformas através do Flutter, mas meu contato não se limita apenas a este framework.
+
+Tive oportunidade de desenvolver o site da empresa em que trabalho atualmente, ele foi feito usando Bootstrap, Animate.Css para as animações e modulado em PHP.
 
 ## Curso em andamento
 - **Análise e Desenvolvimento de Sistemas**
