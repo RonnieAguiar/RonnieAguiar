@@ -15,8 +15,10 @@ Hoje estou cursando **Análise e Desenvolvimento de Sistemas** e seguindo, cada 
 
 Tive oportunidade de desenvolver o site da empresa em que trabalho atualmente, ele foi feito usando Bootstrap, Animate.Css para as animações e modulado em PHP.
 
-## Curso em andamento
+## Curso superior em andamento
 - **Análise e Desenvolvimento de Sistemas**
+
+## Outros cursos
 
 Curso Cod3r: Finalizado
 
