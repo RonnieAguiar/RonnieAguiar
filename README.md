@@ -15,14 +15,17 @@ Hoje estou cursando **Análise e Desenvolvimento de Sistemas** e seguindo, cada 
 
 Tive oportunidade de desenvolver o site da empresa em que trabalho atualmente, ele foi feito usando Bootstrap, Animate.Css para as animações e modulado em PHP.
 
-## Curso superior em andamento
-- **Análise e Desenvolvimento de Sistemas**
+## Formação Acadêmica
+- **Análise e Desenvolvimento de Sistemas** - Cursando
+- **Direito**
 
 ## Outros cursos
 
 Curso Cod3r: Finalizado
 
 <a href="https://www.cod3r.com.br/courses/javascript-funcional-fundamentos"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E&label=Fundamento%20de%20Javascript%20funcional"></a>
+
+<a href="https://www.cod3r.com.br/courses/curso-intensivo-next-react"><img src="https://img.shields.io/badge/Next.js-FFFFFF?style=flat-square&logo=next.js&logoColor=FFFFFF&label=Curso%20Intensido%20de%20Next.js%20e%20React"></a>
 
 Curso Cod3r: Em andamento 
 
